@@ -1,6 +1,7 @@
 # Aurea — Clinical Menstrual Cycle Intelligence
 
-A production-ready, highly minimal, and discreet menstrual cycle tracking web application built with Next.js (App Router), Tailwind CSS, Lucide icons, and TypeScript.
+A production-ready, highly minimal, and discreet menstrual cycle tracking web application built with Next.js (App Router), Tailwind CSS, 
+Lucide icons, and TypeScript.
 
 ![Aurea Cycle Intelligence](https://raw.githubusercontent.com/KajalvermaAIML/menstruation-tracker-/main/public/preview.png)
 
